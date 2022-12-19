@@ -12,7 +12,7 @@ export default defineConfig({
 	server: {
 		port: 3000,
 		https: false,
-		host: true,
+		//host: true,
 		open: '/panel.html',
 	},
 	base: './',
